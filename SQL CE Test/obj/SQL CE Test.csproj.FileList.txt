@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SQL_CE_Test.Properties.Resources.resources
+obj\Debug\SQL CE Test.csproj.GenerateResource.Cache
+bin\Debug\SQL CE Test.exe
+bin\Debug\SQL CE Test.pdb
+bin\Debug\System.Data.SqlServerCe.dll
+obj\Debug\SQL CE Test.exe
+obj\Debug\SQL CE Test.pdb
